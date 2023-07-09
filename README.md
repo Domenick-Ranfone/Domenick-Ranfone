@@ -9,8 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Domenick-Ranfone/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Domenick-Ranfone/azure-network-protocols)
- - Azure Compute and Networking
-- [Azure Network Security Groups and Wireshark](https://github.com/Domenick-Ranfone/Wireshark/blob/main/README.md)
+- Azure Compute and Networking
+  - [Azure Network Security Groups and Wireshark](https://github.com/Domenick-Ranfone/Wireshark/blob/main/README.md)
 
 [linkedin]: https://www.linkedin.com/in/domenick-ranfone/
 
